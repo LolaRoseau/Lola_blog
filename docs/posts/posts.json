@@ -2,19 +2,19 @@
   {
     "path": "posts/2020-10-26-mon-article/",
     "title": "Article 1 : Accumulation of plastic waste during COVID-19 ",
-    "description": "A short description of the post.",
+    "description": "Analysis of a study on the impact of the coronavirus on plastic pollution in the world.",
     "author": [
       {
         "name": "Lola Roseau",
         "url": {
-          "https://science.sciencemag.org/content/369/6509/1314": {}
+          "https://lolaroseau.github.io/Lola_blog/": {}
         }
       }
     ],
     "date": "2020-10-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-26T17:09:58+01:00"
+    "last_modified": "2020-10-26T19:00:02+01:00"
   },
   {
     "path": "posts/about/",

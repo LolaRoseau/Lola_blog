@@ -1,10 +1,10 @@
 ---
 title: "Article 1 : Accumulation of plastic waste during COVID-19 "
 description: |
-  A short description of the post.
+  Analysis of a study on the impact of the coronavirus on plastic pollution in the world.
 author:
   - name: Lola Roseau
-    url: {https://science.sciencemag.org/content/369/6509/1314}
+    url: {https://lolaroseau.github.io/Lola_blog/}
 date: 10-26-2020
 output:
   distill::distill_article:
@@ -14,8 +14,15 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![Masks found on the beach](article 1 - masque.jpg) 
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# Source of the article
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+Link of the article : <https://science.sciencemag.org/content/369/6509/1314>
+
+I consulted this article on the 23 October 2020.
+
+# Vocabulary
+
+# Analysis table about the study
 
