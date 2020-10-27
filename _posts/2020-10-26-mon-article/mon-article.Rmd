@@ -18,9 +18,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Source of the article
 
-Link of the article : <https://science.sciencemag.org/content/369/6509/1314>
+Link of the article : <https://science.sciencemag.org/content/369/6509/1314> (11/09/2020)
 
 I consulted this article on the 23 October 2020.
+
+Word count : 503
 
 # Vocabulary
 
@@ -41,5 +43,31 @@ I consulted this article on the 23 October 2020.
 |      Curtailing      |                                                       Reduce in extent or quantity; impose a restriction on.                                                       |            Restreindre            |
 | (the profit) Margins |                                                                           Extra, bonus.                                                                            |        Marges (de profit)         |
 
-# Analysis table about the study
+# Analysis about the study
+
+## Researchers ?
+
+Tanveer M. Adyel Department of Civil Engineering, Monash University, Clayton, Melbourne, Australia.
+
+## Published in ? When ?
+
+Science Mag (11/09/2020)
+
+## Procedure / What was examined
+
+1. The causes of lockdowns : The petroleum demand collapsed. Oil prices plummeted -> making plastic is cheaper than recycling it.
+	
+2. Personal protective equipment -> increased plastic pollution.
+	
+3. Due the lockdown -> take-out meals, delivered groceries -> increase plastic waste.
+	
+=> This crisis causes drastic increase in plastic consumption and also improper disposal of plastic waste.
+
+## Conclusions/ Discovery
+
+We urgently need strict policies on plastic pollution. Without environmental protection during and after the pandemic, it is unlikely that we will achieve the UN goals. 
+
+## Remaining questions 
+
+/
 
