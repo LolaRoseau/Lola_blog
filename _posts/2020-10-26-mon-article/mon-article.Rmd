@@ -24,5 +24,22 @@ I consulted this article on the 23 October 2020.
 
 # Vocabulary
 
+|  Word from the text  |                                                                   Synonym/definition in English                                                                    |        French translation         |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------: |
+|      The spread      |                                                                  The diffusion, the development.                                                                   |          La propagation           |
+|      Collapsed       |                                                           Break down / Having fallen down or given way.                                                            |          S'est effondré           |
+|      Plummeted       |                                                                Decrease rapidly in value or amount.                                                                |           A dégringolé            |
+|      Incentive       |                                                     A thing that motivates or encourages one to do something.                                                      |            Incitation             |
+|      Overcoming      |                                                          Succeed in dealing with a problem or difficulty.                                                          |             Surmonter             |
+|        Soared        |                                                              Increase rapidly above the usual level.                                                               |        Est monté en flèche        |
+|      Escalation      |                                                                     Amplification, expansion.                                                                      |             Escalade              |
+|     Consumption      |                                                                    The using up of a resource.                                                                     |           Consommation            |
+|        Gowns         |                                  A protective garment worn in hospital, either by a staff member during surgery or by a patient.                                   |              Blouses              |
+|      Landfills       | A place to dispose of refuse and other waste material by burying it and covering it over with soil, especially as a method of filling in or extending usable land. | Décharges / sites d'enfouissement |
+|  Improper disposal   |                                         The action or process of throwing away or getting rid of something in the bad way.                                         |      Elimination inadéquate       |
+|     Waterlogged      |                                                                  Saturated with or full of water.                                                                  |            Gorgé d'eau            |
+|      Curtailing      |                                                       Reduce in extent or quantity; impose a restriction on.                                                       |            Restreindre            |
+| (the profit) Margins |                                                                           Extra, bonus.                                                                            |        Marges (de profit)         |
+
 # Analysis table about the study
 
