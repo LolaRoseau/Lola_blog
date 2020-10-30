@@ -20,9 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Link of the article : <https://science.sciencemag.org/content/369/6509/1314> (11/09/2020)
 
-I consulted this article on the 23 October 2020.
-
-Word count : 503::
+Word count : 503
 
 # Vocabulary
 
