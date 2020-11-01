@@ -1,9 +1,22 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Lola Roseau" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-Lola Roseau, Ingrid Van Lancker, Biology (group 2), 2020-2021
+Welcome to my blog, 
+
+My name is Lola Roseau and I’m 21 years old. 
+Currently, I’m studying biology at UMons.
+
+I started this blog during the academic year of 2020-2021. 
+The first aim of this blog is to improve my English. We have to make a portfolio with articles and analyses. My English teacher is Ms Ingrid Van Lancker (I am in the group 2).
+It is also a collaboration with my data science course because we need to use RStudio to manage it. 
+
+I’m someone who is very curious about nature and everything that is alive. I always want to understand everything. My passions are : photography, traveling, animals and a lot of other things. My biggest dream is to live in Canada. 
+
+Now that I have introduced myself a bit, I suggest you to read more of this blog. 
+
+Good reading! 
