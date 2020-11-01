@@ -9,7 +9,7 @@ output: distill::distill_article
 Welcome to my blog, 
 
 My name is Lola Roseau and I’m 21 years old. 
-Currently, I’m studying biology at UMons.
+Currently, I’m studying biology at UMons in Belgium.
 
 I started this blog during the academic year of 2020-2021. 
 The first aim of this blog is to improve my English. We have to make a portfolio with articles and analyses. My English teacher is Ms Ingrid Van Lancker (I am in the group 2).
