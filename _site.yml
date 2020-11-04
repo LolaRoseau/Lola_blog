@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/LolaRoseau/Lola_blog.git
-base_url: LolaRoseau.github.io/Lola_blog/
+base_url: https://LolaRoseau.github.io/Lola_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
