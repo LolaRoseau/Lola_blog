@@ -10,8 +10,8 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://lolaroseau.github.io/Lola_blog/
-base_url: LolaRoseau.github.io/Lola_blog/
+      href: http://github.com/LolaRoseau/Lola_blog
+base_url: http://LolaRoseau.github.io/Lola_blog/
 collections:
     posts:
       disqus: lola-blog
