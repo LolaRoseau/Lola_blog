@@ -10,12 +10,10 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/LolaRoseau/Lola_blog.git
-base_url: https://LolaRoseau.github.io/Lola_blog/
+      href: https://lolaroseau.github.io/Lola_blog/
+base_url: LolaRoseau.github.io/Lola_blog/
 collections:
     posts:
+      disqus: lola-blog
       share: [twitter, linkedin, facebook]
-      disqus: lola-blog 
-output:
-  distill::distill_article:
-    css: style.css
+output: distill::distill_article 
