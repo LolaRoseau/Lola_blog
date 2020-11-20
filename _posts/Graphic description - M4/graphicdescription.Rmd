@@ -34,7 +34,7 @@ I decided to choose the data about sea urchins (*Paracentrotus lividus*) biometr
 # Graphic
 
 
-```{r graphic}
+```{r graphic, echo=FALSE}
 chart(data = urchin_bio, weight ~ origin %fill=% origin) + stat_summary(geom = "col", fun = "mean", na.rm = TRUE) + scale_fill_grey() + xlab("Origin") + ylab("Weight [gram, whole animal]")
 ```
 

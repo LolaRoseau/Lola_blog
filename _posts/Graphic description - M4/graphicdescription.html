@@ -967,8 +967,6 @@
 <p>I decided to choose the data about sea urchins (<em>Paracentrotus lividus</em>) biometry. There are two groups of urchins. The first one is from fishery (Brittany, France) and the second one is from farm (Normandy, France). The data comes from a study made by Philippe Grosjean about their biometry.</p>
 <h1 id="graphic">Graphic</h1>
 <div class="layout-chunk" data-layout="l-body">
-<pre class="r"><code>
-chart(data = urchin_bio, weight ~ origin %fill=% origin) + stat_summary(geom = &quot;col&quot;, fun = &quot;mean&quot;, na.rm = TRUE) + scale_fill_grey() + xlab(&quot;Origin&quot;) + ylab(&quot;Weight [gram, whole animal]&quot;)</code></pre>
 <p><img src="graphicdescription_files/figure-html5/graphic-1.png" width="624" /></p>
 </div>
 <h1 id="analysis">Analysis</h1>
