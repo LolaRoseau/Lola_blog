@@ -1,0 +1,44 @@
+---
+title: "Graphic description"
+categories : Data Sciences I
+description: |
+  Analysis of a graphic representing the mean weight according to the origin of the sea urchins.
+author:
+  - name: Lola Roseau
+    url: {https://lolaroseau.github.io/Lola_blog/}
+date: 11-20-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# package
+SciViews::R
+options(data.io_lang = "fr")
+```
+
+```{r importation,include=FALSE}
+data <- read("urchin_bio", package = "data.io")
+```
+
+
+# Import and data description 
+
+I decided to choose the data about sea urchins (*Paracentrotus lividus*) biometry. There are two groups of urchins. The first one is from fishery (Brittany, France) and the second one is from farm (Normandy, France). The data comes from a study made by Philippe Grosjean about their biometry.
+
+
+# Graphic
+
+
+```{r graphic}
+chart(data = urchin_bio, weight ~ origin %fill=% origin) + stat_summary(geom = "col", fun = "mean", na.rm = TRUE) + scale_fill_grey() + xlab("Origin") + ylab("Weight [gram, whole animal]")
+```
+
+
+# Analysis
+
+Thanks to the graphic, we can obviously see that the urchins who comes from farm have a much higher mean weight. It's 22 grams for the farm urchins against 16 grams for the fishery urchins. That is certainly because they have more food and less predators in the farm. 
