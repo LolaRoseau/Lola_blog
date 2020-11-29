@@ -1,0 +1,71 @@
+---
+title: "Article 2 :  "
+description: |
+  
+author:
+  - name: Lola Roseau
+    url: {https://lolaroseau.github.io/Lola_blog/}
+date: 11-29-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![Masks found on the beach](article 1 - masque.jpg) 
+
+# Source of the article
+
+Link of the article : <https://science.sciencemag.org/content/369/6509/1314> (11/09/2020)
+
+Word count : 503
+
+# Vocabulary
+
+|  Word from the text  |                                                                   Synonym/definition in English                                                                    |        French translation         |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------: |
+|      The spread      |                                                                  The diffusion, the development.                                                                   |          La propagation           |
+|      Collapsed       |                                                           Break down / Having fallen down or given way.                                                            |          S'est effondré           |
+|      Plummeted       |                                                                Decrease rapidly in value or amount.                                                                |           A dégringolé            |
+|      Incentive       |                                                     A thing that motivates or encourages one to do something.                                                      |            Incitation             |
+|      Overcoming      |                                                          Succeed in dealing with a problem or difficulty.                                                          |             Surmonter             |
+|        Soared        |                                                              Increase rapidly above the usual level.                                                               |        Est monté en flèche        |
+|      Escalation      |                                                                     Amplification, expansion.                                                                      |             Escalade              |
+|     Consumption      |                                                                    The using up of a resource.                                                                     |           Consommation            |
+|        Gowns         |                                  A protective garment worn in hospital, either by a staff member during surgery or by a patient.                                   |              Blouses              |
+|      Landfills       | A place to dispose of refuse and other waste material by burying it and covering it over with soil, especially as a method of filling in or extending usable land. | Décharges / sites d'enfouissement |
+|  Improper disposal   |                                         The action or process of throwing away or getting rid of something in the bad way.                                         |      Elimination inadéquate       |
+|     Waterlogged      |                                                                  Saturated with or full of water.                                                                  |            Gorgé d'eau            |
+|      Curtailing      |                                                       Reduce in extent or quantity; impose a restriction on.                                                       |            Restreindre            |
+| (the profit) Margins |                                                                           Extra, bonus.                                                                            |        Marges (de profit)         |
+
+# Analysis about the study
+
+## Researchers ?
+
+Tanveer M. Adyel Department of Civil Engineering, Monash University, Clayton, Melbourne, Australia.
+
+## Published in ? When ?
+
+Science Mag (11/09/2020)
+
+## Procedure / What was examined
+
+1. The causes of lockdowns : The petroleum demand collapsed. Oil prices plummeted -> making plastic is cheaper than recycling it.
+	
+2. Personal protective equipment -> increased plastic pollution.
+	
+3. Due the lockdown -> take-out meals, delivered groceries -> increase plastic waste.
+	
+=> This crisis causes drastic increase in plastic consumption and also improper disposal of plastic waste.
+
+## Conclusions/ Discovery
+
+We urgently need strict policies on plastic pollution. Without environmental protection during and after the pandemic, it is unlikely that we will achieve the UN goals. 
+
+## Remaining questions 
+
+/
+
