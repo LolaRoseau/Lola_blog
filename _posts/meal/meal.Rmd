@@ -20,5 +20,6 @@ output: distill::distill_article
 
 7 November : I watch some YouTube videos from one of my favorite American YouTuber, Bethany Mota.
 
-20 November : «Emily in Paris» - I started to watch a new serie about fashion and marketing. It’s the story of an American girl who comes in Paris to help an office with their marketing and communication on the social network. So obviously I had to watch it in English ! It is really more realistic because there are a lot of jokes on the fact that she doesn’t speak French. 
+20 November : «Emily in Paris» - I started to watch a new serie about fashion and marketing. It’s the story of an American girl who comes in Paris to help an office with the marketing and the communication on the social networks. So obviously I had to watch it in English ! It is really more realistic because there are a lot of jokes on the fact that she doesn’t speak French.
+
 
