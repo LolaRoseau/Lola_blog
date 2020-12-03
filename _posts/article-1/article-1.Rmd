@@ -14,7 +14,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![Masks found on the beach](article 1 - masque.jpg) 
+![Masks found on the beach](images/article 1 - masque.jpg) 
 
 # Source of the article
 

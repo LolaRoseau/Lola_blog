@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>http://LolaRoseau.github.io/Lola_blog/</loc>
-    <lastmod>2020-11-16T16:42:03+01:00</lastmod>
+    <lastmod>2020-12-03T07:05:56+01:00</lastmod>
   </url>
   <url>
-    <loc>http://LolaRoseau.github.io/Lola_blog/posts/MEAL/</loc>
-    <lastmod>2020-12-01T11:49:42+01:00</lastmod>
+    <loc>http://LolaRoseau.github.io/Lola_blog/posts/about/</loc>
+    <lastmod>2020-12-03T07:07:05+01:00</lastmod>
   </url>
   <url>
-    <loc>http://LolaRoseau.github.io/Lola_blog/posts/Graphic description - M4/</loc>
-    <lastmod>2020-11-20T16:02:31+01:00</lastmod>
+    <loc>http://LolaRoseau.github.io/Lola_blog/posts/meal/</loc>
+    <lastmod>2020-12-03T07:05:56+01:00</lastmod>
   </url>
   <url>
-    <loc>http://LolaRoseau.github.io/Lola_blog/posts/About me/</loc>
-    <lastmod>2020-11-16T16:42:03+01:00</lastmod>
+    <loc>http://LolaRoseau.github.io/Lola_blog/posts/graphicdescription/</loc>
+    <lastmod>2020-12-03T07:09:20+01:00</lastmod>
   </url>
   <url>
-    <loc>http://LolaRoseau.github.io/Lola_blog/posts/Article 1/</loc>
-    <lastmod>2020-11-16T16:42:03+01:00</lastmod>
+    <loc>http://LolaRoseau.github.io/Lola_blog/posts/article-1/</loc>
+    <lastmod>2020-12-03T07:08:34+01:00</lastmod>
   </url>
 </urlset>
