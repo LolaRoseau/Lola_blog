@@ -8,7 +8,7 @@ navbar:
     - text: "M.E.A.L."
       href: "posts/meal/index.html"
     - text: "About me"
-      href: "posts/About%20me/index.html"
+      href: "posts/about/index.html"
     - icon: fab fa-github
       href: http://github.com/LolaRoseau/Lola_blog
 base_url: http://LolaRoseau.github.io/Lola_blog/

@@ -1,6 +1,21 @@
 [
   {
-    "path": "posts/MEAL/",
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Lola Roseau",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-03T07:07:05+01:00"
+  },
+  {
+    "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},
     "author": [
@@ -15,10 +30,10 @@
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2020-12-01T11:49:42+01:00"
+    "last_modified": "2020-12-03T07:05:56+01:00"
   },
   {
-    "path": "posts/Graphic description - M4/",
+    "path": "posts/graphicdescription/",
     "title": "Graphic description",
     "description": "Analysis of a graphic representing the mean weight according to the origin of the sea urchins.",
     "author": [
@@ -33,28 +48,13 @@
     "categories": [
       "Data Sciences I"
     ],
-    "preview": "posts/Graphic description - M4/graphicdescription_files/figure-html5/graphic-1.png",
-    "last_modified": "2020-11-20T16:02:31+01:00",
+    "preview": "posts/graphicdescription/graphicdescription_files/figure-html5/graphic-1.png",
+    "last_modified": "2020-12-03T07:09:20+01:00",
     "preview_width": 1248,
     "preview_height": 768
   },
   {
-    "path": "posts/About me/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "Lola Roseau",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-01",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-11-16T16:42:03+01:00"
-  },
-  {
-    "path": "posts/Article 1/",
+    "path": "posts/article-1/",
     "title": "Article 1 : Accumulation of plastic waste during COVID-19 ",
     "description": "Analysis of a study on the impact of the coronavirus on plastic pollution in the world.",
     "author": [
@@ -68,6 +68,6 @@
     "date": "2020-10-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-16T16:42:03+01:00"
+    "last_modified": "2020-12-03T07:08:34+01:00"
   }
 ]
