@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Plastic baby bottles can shed microparticles into the contents - Emma Kim/Getty Images](images/bébé-article-2.webp) 
+![Plastic baby bottles can shed microparticles into the contents - Getty Images](images/bébé-article-2.jpg) 
 
 # Source of the article
 

@@ -1,7 +1,8 @@
 ---
-title: "Article 1 : Accumulation of plastic waste during COVID-19 "
+title: "Article 1 : Accumulation of plastic waste during COVID-19"
 description: |
   Analysis of a study on the impact of the coronavirus on plastic pollution in the world.
+  
 author:
   - name: Lola Roseau
     url: {https://lolaroseau.github.io/Lola_blog/}
@@ -14,7 +15,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![Masks found on the beach](images/article 1 - masque.jpg) 
+
+![Masks found on the beach](images/article 1 - masque.jpg)
 
 # Source of the article
 
