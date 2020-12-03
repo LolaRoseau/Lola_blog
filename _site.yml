@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: http://github.com/GuyliannEngels/Lola_blog
-base_url: http://GuyliannEngels.github.io/Lola_blog/
+base_url: http://guyliannengels.github.io/Lola_blog/
 collections:
     posts:
       disqus: lola-blog
