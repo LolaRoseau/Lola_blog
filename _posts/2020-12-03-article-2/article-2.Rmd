@@ -1,0 +1,66 @@
+---
+title: "Article 2 : Plastic baby bottles shed millions of micro plastics when shaken"
+description: |
+  Analysis of a study on the microplastics released by the feeding bottles.
+author:
+  - name: Lola Roseau
+    url: {https://lolaroseau.github.io/Lola_blog/}
+date: 12-03-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Plastic baby bottles can shed microparticles into the contents - Emma Kim/Getty Images](images/bébé-article-2.webp) 
+
+# Source of the article
+
+Link of the article : <https://www.newscientist.com/article/2257599-plastic-baby-bottles-shed-millions-of-microplastics-when-shaken/> (19/10/2020)
+
+Word count : 512
+
+# Vocabulary
+
+| Word from the text |                                                                Synonym/definition                                                                 |     French translation     |
+| :----------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+|       Infant       |                                                           A baby or a very young child.                                                           |    Bébé / jeune enfant     |
+|       Poured       | To make a substance flow from a container, especially into another container, by raising just one side of the container that the substance is in. |           Versé            |
+|       Mimic        |                   To copy the way in which a particular person usually speaks and moves, usually in order to make people laugh.                   |           Imiter           |
+|   (were) Leaking   |          (Of a liquid or gas) To escape from a hole or crack in a pipe or container; (of a container) to allow liquid or gas to escape.          |          Fuyaient          |
+|       Range        |                                                             A set of similar things.                                                              |           Gamme            |
+|    Substantial     |                                                       Large in size, value, or importance.                                                        | Substantiel / considérable |
+|   (daily) Intake   |                                                          An act of taking in something.                                                           |     Apport (quotidien)     |
+|    For instance    |                        A particular situation, event, or fact, especially an example of something that happens generally.                         |        Par exemple         |
+
+# Analysis about the study
+
+## Researchers ?
+
+John Boland at Trinity College Dublin in Ireland and his colleagues.
+
+## Published in ? When ?
+
+ New Scientist (19/10/2020)
+
+## Procedure / What was examined
+
+They examined microplastics released during the process of baby formula preparation in feeding bottles made of polypropylene plastic (that’s about 69% of the feeding bottles available on the market).
+
+1. They bought new feeding bottles which they cleaned, sterilized and let dry.
+
+2. Then, they put them in 70°C purified water (WHO recommended this temperature for baby preparation). After that they put them in a mechanical shaker (to mimic the formula mixing process).
+
+3. The team filtered the water and analyzed it under a microscope.
+
+## Conclusions / Discovery
+
+Plastic feeding bottles release an average of 4 million microplastic particles per litre into baby formula during preparation.
+
+## Remaining questions 
+
+They don’t know if ingesting microplastics is harmful to infant health or not.
+
