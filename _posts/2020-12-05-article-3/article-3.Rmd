@@ -1,0 +1,52 @@
+---
+title: "Article 3 : "
+description: |
+  A short description of the post.
+author:
+  - name: Lola Roseau
+    url : {https://lolaroseau.github.io/Lola_blog/}
+date: 12-05-2020
+categories : "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/.jpg)
+
+
+# Source of the article
+
+Link of the article : <> (//2020)
+
+Word count : 
+
+# Vocabulary
+
+
+
+# Analysis about the study
+
+## Researchers ?
+
+
+
+## Published in ? When ?
+
+
+
+## Procedure / What was examined
+
+
+
+## Conclusions / Discovery
+
+
+
+## Remaining questions 
+
+
