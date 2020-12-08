@@ -1,7 +1,7 @@
 ---
-title: "Article 3 : "
+title: "Article 3 : Plastics an ‘unfolding disaster’ for US marine life"
 description: |
-  A short description of the post.
+  Analysis of a study on the marine animals who are harmed by plastic pollution in US waters.
 author:
   - name: Lola Roseau
     url : {https://lolaroseau.github.io/Lola_blog/}
@@ -16,37 +16,70 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](images/.jpg)
+![A baby sea turtle stuck in plastic in Florida - GUMBO LIMBO NATURE CENTER VIA CBS](images/tortue-plastic.jpg)
 
 
 # Source of the article
 
-Link of the article : <> (//2020)
+Link of the article : <https://www.bbc.com/news/world-us-canada-55006333> (19/11/2020)
 
-Word count : 
+Word count : 466
 
 # Vocabulary
 
+|   Word from the text   |                                                               Synonym / definition in English                                                               |   French translation    |
+| :--------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: |
+|   Unfolding disaster   |                                                                           Damage                                                                            | Désastre qui se déroule |
+|      Decade-long       |                                                                During a period of ten years.                                                                |       Une décénie       |
+| Comprehensive (report) |                                                    Complete and including everything that is necessary.                                                     |   (rapport) détaillé    |
+|       Threatened       |                                                                         Endangered                                                                          |         Menacés         |
+|         Warns          |                                     To make someone realize a possible danger or problem, especially one in the future.                                     |        Prévient         |
+|       Monk seals       | A type of seal (= a large mammal that eats fish and lives partly in the sea and partly on land) that lives in warm areas in the northern part of the world. |     Phoques moines      |
+|     A grim picture     |                                                                        Without hope                                                                         |    Une image sombre     |
+|        Authored        |                                                                            Wrote                                                                            |         Rédigé          |
+|        Drowning        |                                Death caused by being underwater and not being able to breathe, or a case when this happens.                                 |         Noyade          |
+|       Entangled        |                                          To cause something to become caught in something such as a net or ropes.                                           |         Emmêlé          |
+|       Sei whale        |                             A type of whale (a very large sea mammal that breathes air through a hole at the top of its head).                              |     Rorqual boréal      |
+|        Curtail         |                                          To stop something before it is finished, or to reduce or limit something.                                          |         Réduire         |
+|         Straws         |                                 A thin tube made of plastic or waterproof paper that is used to suck liquid into the mouth.                                 |         Pailles         |
+|      Bin lorries       |                             A large vehicle that is driven from one house to another to collect rubbish from the bins outside.                              |    Camions poubelles    |
 
 
 # Analysis about the study
 
 ## Researchers ?
 
-
+Oceana, the world's largest ocean conservation group. Authored by the Dr Kimberly Warner.
 
 ## Published in ? When ?
 
-
+BBC (19/11/2020)
 
 ## Procedure / What was examined
 
-
+The study tried to find out which marine animals are harmed by plastic pollution in US waters and offered solutions.
 
 ## Conclusions / Discovery
 
+- Since 2009, they found 1,792 cases of hurted marine animals due to plastic (entangled, hurt when swallowing it, strangling, drowning…).
 
+- 88% of them are threatened or endangered. It concerns about 40 species including Hawaiian monk seals, Florida manatees, Steller sea lions and all six species of sea turtle found in the US.
+
+- They are sure that the real numbers are definitely worst. 
+
+- Plastic pollution is one of several human-caused factors endangering the planet.
+-> Industries continues to increase our use of plastic.
+US produces more sigle-use plastic than any other nation.
+
+- 15 million metric tonnes of plastic enter the oceans each year. It is going to tripe by 2040.
+
+=> Oceana wants that :
+
+- The companies reduce the amount of plastic produced and offer plastic-free alternatives. 
+
+- The government passes policies to help reduce single-use plastics. 
 
 ## Remaining questions 
 
+/
 
