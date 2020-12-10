@@ -6,6 +6,7 @@ author:
   - name: Lola Roseau
     url : {https://lolaroseau.github.io/Lola_blog/}
 date: 12-08-2020
+categories : "English for Science"
 output:
   distill::distill_article:
     self_contained: false
@@ -27,18 +28,18 @@ Word count : 875
 
 # Vocabulary
 
-| Word from the text | Synonym/definition in English                                                                                                                                    | French translation    |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| Beads              | A small, coloured, often round piece of plastic, wood, glass, etc. with a hole through it. It is usually put on a string with a lot of others to make jewellery. | Perles                |
-| In dust            | Dry dirt in the form of powder that covers surfaces inside a building, or very small dry pieces of soil, sand, or other substances.                              | Dans les poussières   |
-| From remote        | Far away in distance.                                                                                                                                            | A distance/apart      |
-| Discarded          | To throw something away or get rid of it because you no longer want or need it.                                                                                  | Ecarté                |
-| Sheer scale        | A set of numbers, amounts, etc., used to measure or compare the level of something who is pure.                                                                  | Echelle pure          |
-| Watershed          | An area of high ground from which water flows down to a river.                                                                                                   | Bassin versant        |
-| Lid                | A cover on a container, that can be lifted up or removed.                                                                                                        | Couvercle             |
-| Gear               | The equipment, clothes, etc. that you use to do a particular activity.                                                                                           | Equipement            |
-| Astounded          | Very surprised or shocked.                                                                                                                                       | Etonné                |
-| The flight paths   | A route followed by an aircraft/plastic particles.                                                                                                               | La trajectoire de vol |
+| Word from the text |                                                                  Synonym/definition in English                                                                   |  French translation   |
+| :----------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------: |
+|       Beads        | A small, coloured, often round piece of plastic, wood, glass, etc. with a hole through it. It is usually put on a string with a lot of others to make jewellery. |        Perles         |
+|      In dust       |               Dry dirt in the form of powder that covers surfaces inside a building, or very small dry pieces of soil, sand, or other substances.                |  Dans les poussières  |
+|    From remote     |                                                                      Far away in distance.                                                                       |   A distance/apart    |
+|     Discarded      |                                         To throw something away or get rid of it because you no longer want or need it.                                          |        Ecarté         |
+|    Sheer scale     |                                 A set of numbers, amounts, etc., used to measure or compare the level of something who is pure.                                  |     Echelle pure      |
+|     Watershed      |                                                  An area of high ground from which water flows down to a river.                                                  |    Bassin versant     |
+|        Lid         |                                                    A cover on a container, that can be lifted up or removed.                                                     |       Couvercle       |
+|        Gear        |                                              The equipment, clothes, etc. that you use to do a particular activity.                                              |      Equipement       |
+|     Astounded      |                                                                    Very surprised or shocked.                                                                    |        Etonné         |
+|  The flight paths  |                                                        A route followed by an aircraft/plastic particles.                                                        | La trajectoire de vol |
 
 # Analysis about the study
 
