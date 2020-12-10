@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-12-08-article-4/",
+    "title": "Article 4 : Thousands of tons of microplastics are falling from the sky",
+    "description": "Analysis of a study on how the microplastics travel in the atmosphere locally and on long-distance flights.",
+    "author": [
+      {
+        "name": "Lola Roseau",
+        "url": {
+          "https://lolaroseau.github.io/Lola_blog/": {}
+        }
+      }
+    ],
+    "date": "2020-12-08",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-10T13:24:06+01:00"
+  },
+  {
     "path": "posts/2020-12-05-article-3/",
     "title": "Article 3 : Plastics an ‘unfolding disaster’ for US marine life",
     "description": "Analysis of a study on the marine animals who are harmed by plastic pollution in US waters.",

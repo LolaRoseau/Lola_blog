@@ -1,0 +1,79 @@
+---
+title: "Article 4 : Thousands of tons of microplastics are falling from the sky"
+description: Analysis of a study on how the microplastics travel in the atmosphere locally and on long-distance flights.
+  
+author:
+  - name: Lola Roseau
+    url : {https://lolaroseau.github.io/Lola_blog/}
+date: 12-08-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![Plastic in the atmosphere - Getty image](images/image-plasic-atmosphere.jpeg) 
+
+
+# Source of the article
+
+Link of the article : <https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/> (11/06/2020)
+
+Word count : 875
+
+# Vocabulary
+
+| Word from the text | Synonym/definition in English                                                                                                                                    | French translation    |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| Beads              | A small, coloured, often round piece of plastic, wood, glass, etc. with a hole through it. It is usually put on a string with a lot of others to make jewellery. | Perles                |
+| In dust            | Dry dirt in the form of powder that covers surfaces inside a building, or very small dry pieces of soil, sand, or other substances.                              | Dans les poussières   |
+| From remote        | Far away in distance.                                                                                                                                            | A distance/apart      |
+| Discarded          | To throw something away or get rid of it because you no longer want or need it.                                                                                  | Ecarté                |
+| Sheer scale        | A set of numbers, amounts, etc., used to measure or compare the level of something who is pure.                                                                  | Echelle pure          |
+| Watershed          | An area of high ground from which water flows down to a river.                                                                                                   | Bassin versant        |
+| Lid                | A cover on a container, that can be lifted up or removed.                                                                                                        | Couvercle             |
+| Gear               | The equipment, clothes, etc. that you use to do a particular activity.                                                                                           | Equipement            |
+| Astounded          | Very surprised or shocked.                                                                                                                                       | Etonné                |
+| The flight paths   | A route followed by an aircraft/plastic particles.                                                                                                               | La trajectoire de vol |
+
+# Analysis about the study
+
+## Researchers ?
+
+Janice Brahney, a watershed scientist at Utah State University (author) and her colleagues. 
+
+## Published in ? When ?
+
+Scientific American (11/06/2020)
+
+## Procedure / What was examined
+
+The scientists examined how the microplastics travel in the atmosphere locally and on long-distance flights. They also showed the proportion of these particles in the dust. 
+
+- During one year, they collected microplastics from 11 national parks and wilderness areas in the western U.S.
+
+They used a pair of bucket (one for dry weather and the other one for wet weather). The lid automatically closed thanks to a sensor. It depended on the weather.
+
+- In the lab : some scientists counted the microplastics under their microscopes (they used dyes to separate clearly the plastics particles from other particles).
+
+Others used the Fourier transform infrared spectroscopy. It is a technique to mesure how the samples absorbed and emitted infrared light. Thanks to that they could differentiate plastic from other material.
+
+## Conclusions / discovery
+
+- In total, in the samples 4% of particles were plastic. The microplastics were from different origin : carpeting, paint, cosmetic products, camping gear, clothing…
+
+- Wet microplastics -> heavy -> close to cities.
+
+- Dry microplastics -> smaller and more numerous -> higher in the atmosphere, away from cities.
+
+=> The microplastics are transported by the wind and carried far away. «More than 1,000 metric tons of microplastics fall on protected lands in the country’s western region each year».
+
+
+## Remaining questions 
+
+The future research will focus on the question : «How microplastics enter the atmosphere ?»
+
