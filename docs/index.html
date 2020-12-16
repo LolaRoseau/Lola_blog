@@ -38,7 +38,7 @@
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["Plastic pollution - Lola Roseau"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["Plastic pollution - Lola Roseau"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["posts"]}},"value":[{"type":"character","attributes":{},"value":["about","article-1","2020-12-03-article-2","2020-12-05-article-3","2020-12-08-article-4","MEAL","graphicdescription"]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -1259,8 +1259,40 @@
   <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+  <style type="text/css">
+  .distill-site-nav {
+    color: rgba(255, 255, 255, 0.8);
+    background-color: #66CCFF;
+    font-size: 15px;
+    font-weight: 300;
+  }
+  
+  .distill-site-nav a {
+    color: white;
+    text-decoration: none;
+    font-family: Arial;
+  }
+  
+  .distill-site-nav a:hover {
+    color: white;
+  }
+  
+  .distill-site-header {
+  }
+  
+  .distill-site-footer {
+  }
+  
+  @media print {
+    .distill-site-nav {
+      display: none;
+    }
+  }
+  
+  </style>
   <!--/radix_placeholder_site_in_header-->
 
+  <link rel="stylesheet" href="style.css" type="text/css"/>
 
 </head>
 
@@ -1613,30 +1645,30 @@ function init_posts_list() {
 <div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
 <h1 class="posts-list-caption">Plastic pollution - Lola Roseau</h1>
-<a href="posts/2020-12-08-article-4/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["English for Science"]}</script>
+<a href="posts/about/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Dec. 8, 2020</div>
+<div class="publishedDate">Dec. 3, 2020</div>
 </div>
 <div class="thumbnail">
 <img/>
 </div>
 <div class="description">
-<h2>Article 4 : Thousands of tons of microplastics are falling from the sky</h2>
-<p>Analysis of a study on how the microplastics travel in the atmosphere locally and on long-distance flights.</p>
+<h2>About Me</h2>
+<p></p>
 </div>
 </a>
-<a href="posts/2020-12-05-article-3/" class="post-preview">
+<a href="posts/article-1/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":["English for Science"]}</script>
 <div class="metadata">
-<div class="publishedDate">Dec. 5, 2020</div>
+<div class="publishedDate">Oct. 26, 2020</div>
 </div>
 <div class="thumbnail">
 <img/>
 </div>
 <div class="description">
-<h2>Article 3 : Plastics an ‘unfolding disaster’ for US marine life</h2>
-<p>Analysis of a study on the marine animals who are harmed by plastic pollution in US waters.</p>
+<h2>Article 1 : Accumulation of plastic waste during COVID-19</h2>
+<p>Analysis of a study on the impact of the coronavirus on plastic pollution in the world.</p>
 </div>
 </a>
 <a href="posts/2020-12-03-article-2/" class="post-preview">
@@ -1652,17 +1684,30 @@ function init_posts_list() {
 <p>Analysis of a study on the microplastics released by the feeding bottles.</p>
 </div>
 </a>
-<a href="posts/about/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<a href="posts/2020-12-05-article-3/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["English for Science"]}</script>
 <div class="metadata">
-<div class="publishedDate">Dec. 3, 2020</div>
+<div class="publishedDate">Dec. 5, 2020</div>
 </div>
 <div class="thumbnail">
 <img/>
 </div>
 <div class="description">
-<h2>About Me</h2>
-<p></p>
+<h2>Article 3 : Plastics an ‘unfolding disaster’ for US marine life</h2>
+<p>Analysis of a study on the marine animals who are harmed by plastic pollution in US waters.</p>
+</div>
+</a>
+<a href="posts/2020-12-08-article-4/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["English for Science"]}</script>
+<div class="metadata">
+<div class="publishedDate">Dec. 8, 2020</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Article 4 : Thousands of tons of microplastics are falling from the sky</h2>
+<p>Analysis of a study on how the microplastics travel in the atmosphere locally and on long-distance flights.</p>
 </div>
 </a>
 <a href="posts/MEAL/" class="post-preview">
@@ -1689,19 +1734,6 @@ function init_posts_list() {
 <div class="description">
 <h2>Graphic description</h2>
 <p>Analysis of a graphic representing the mean weight according to the origin of the sea urchins.</p>
-</div>
-</a>
-<a href="posts/article-1/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["English for Science"]}</script>
-<div class="metadata">
-<div class="publishedDate">Oct. 26, 2020</div>
-</div>
-<div class="thumbnail">
-<img/>
-</div>
-<div class="description">
-<h2>Article 1 : Accumulation of plastic waste during COVID-19</h2>
-<p>Analysis of a study on the impact of the coronavirus on plastic pollution in the world.</p>
 </div>
 </a>
 </div>
