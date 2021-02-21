@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-02-21-meal/",
+    "title": "M.E.A.L.",
+    "description": {},
+    "author": [
+      {
+        "name": "Lola Roseau",
+        "url": {
+          "https://lolaroseau.github.io/Lola_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-02-21",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-02-21T15:20:45+01:00"
+  },
+  {
     "path": "posts/MEAL/",
     "title": "My English Activity Log : MEAL",
     "description": {},
