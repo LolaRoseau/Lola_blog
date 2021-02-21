@@ -2,11 +2,13 @@
 title: "My English Activity Log : MEAL"
 author:
   - name: "Lola Roseau" 
+  url: {https://lolaroseau.github.io/Lola_blog/}
 date: "`r Sys.Date()`"
 categories:
   - "English for Science"
   - "M.E.A.L."
 output: distill::distill_article
+    self_contained: false
 ---
 21 September : Today, I had my first English lesson. I downloaded the BBC app, Quizlet and WordReference on my iPad.
 
