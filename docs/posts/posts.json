@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-03-08-article-6/",
+    "title": "Article 6 : ",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lola Roseau",
+        "url": {
+          "https://lolaroseau.github.io/Lola_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-03-08",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-08T15:09:14+01:00"
+  },
+  {
     "path": "posts/2021-02-26-article-5/",
     "title": "Article 5 : A new type of plastic may be the first that is infinitely recyclable",
     "description": "Analysis of a study on a new type of plastic.",
