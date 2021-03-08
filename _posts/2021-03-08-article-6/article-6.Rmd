@@ -6,7 +6,7 @@ author:
   - name: Lola Roseau
     url: {https://lolaroseau.github.io/Lola_blog/}
 date: 03-08-2021
-categories : "English for Science"
+Categories : "English for Science"
 output:
   distill::distill_article:
     self_contained: false
