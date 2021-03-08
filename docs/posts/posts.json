@@ -12,9 +12,11 @@
       }
     ],
     "date": "2021-03-08",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2021-03-08T15:09:14+01:00"
+    "last_modified": "2021-03-08T15:15:34+01:00"
   },
   {
     "path": "posts/2021-02-26-article-5/",
@@ -29,9 +31,11 @@
       }
     ],
     "date": "2021-02-26",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2021-03-08T15:02:41+01:00"
+    "last_modified": "2021-03-08T15:15:24+01:00"
   },
   {
     "path": "posts/2021-02-21-meal/",
