@@ -49,12 +49,22 @@ Discovery of a new type of plastic infinitely recyclable.
 
 ## Procedure / What was examined
 
-
+It’s about 300 million tones of plastic produced every year globally.
+In the US, only 10% is recycled because it’s hard to break down (the rest is tipped into landfill, incinerated or leaked in the environment). 
 
 ## Conclusions / discovery
 
+They discovered a new type of plastic (PBTL).
 
+Advantages : 
+- Easy to broke into its chemical building blocks (100° -> 24 hours)
+- Infinitely recyclable
+- Make high-quality products (maintain its original qualities)
+-> Reduce the amount of plastic waste
+
+Disadvantage : Need to be separeted from the other types of plastic for the recycling. 
 
 ## Remaining questions 
 
 /
+
