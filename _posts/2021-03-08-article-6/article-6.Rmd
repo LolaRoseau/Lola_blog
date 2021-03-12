@@ -1,7 +1,8 @@
 ---
-title: "Article 6 : "
+title: "Article 6 : Plastic-eating enzyme 'cocktail' heralds new hope for plastic waste"
 description: |
-  A short description of the post.
+  Analysis of a study on the enzymes that digest plastic particules.
+  
 author:
   - name: Lola Roseau
     url: {https://lolaroseau.github.io/Lola_blog/}
@@ -16,4 +17,54 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![PETase and MHETase enzymes](images/enzymes.jpg)
+
+
+# Source of the article
+
+Link of the article : <https://www.sciencedaily.com/releases/2020/09/200928152913.htm> (28/09/2020)
+
+Word count : 713
+
+# Vocabulary
+
+| Word from the text |                                                                Synonym/definition in English                                                                 | French translation  |
+| :----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------: |
+|      Heralds       | To be a sign that something important, and often good, is starting to happen, or to make something publicly known, especially by celebrating or praising it. |       Annonce       |
+|      Dwelling      |                                                                 A house or place to live in                                                                  |      Logement       |
+|     To tackle      |                                                                To try to deal with something.                                                                |       Tacler        |
+|       Chops        |                                         To cut something into pieces with an axe, knife, or other sharp instrument.                                          |       Couper        |
+|     Mimicking      |                        To copy the way in which a particular person usually speaks and moves, usually in order to make people laugh.                         |       Imitant       |
+|     Delighted      |                                                                         Very pleased                                                                         |        Ravie        |
+|       Grasp        |                                                To quickly take something in your hand(s) and hold it firmly.                                                 |       Saisir        |
+|     Littering      |                                      Small pieces of rubbish that have been left lying on the ground in public places.                                       |      Détritus       |
+|      Reliance      |                                                The state of depending on or trusting in something or someone.                                                |     Dépendance      |
+|     Blueprints     |                                                A complete plan that explains how to do or develop something.                                                 |        Plans        |
+|   Computational    |                                                             Using computers to study something.                                                              |    Informatique     |
+
+# Analysis about the study
+
+## Researchers ?
+
+
+
+## Published in ? When ?
+
+
+
+## General topic
+
+
+
+## Procedure / What was examined
+
+
+
+## Conclusions / Discovery
+
+
+
+## Remaining questions 
+
+/
 
