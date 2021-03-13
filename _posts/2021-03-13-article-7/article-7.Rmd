@@ -1,0 +1,57 @@
+---
+title: "Article 7 : "
+description: |
+  A short description of the post.
+author:
+  - name: Lola Roseau
+    url: {https://lolaroseau.github.io/Lola_blog/}
+date: 03-13-2021
+categories : "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Larvae that can eat plastic](images/larve.jpeg)
+
+
+# Source of the article
+
+Link of the article : <> ()
+
+Word count :
+
+# Vocabulary
+
+
+
+# Analysis about the study
+
+## Researchers ?
+
+
+
+## Published in ? When ?
+
+
+
+## General topic
+
+
+
+## Procedure / What was examined
+
+ 
+
+## Conclusions / Discovery
+
+
+
+## Remaining questions 
+
+/
+

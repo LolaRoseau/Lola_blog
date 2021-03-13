@@ -46,23 +46,29 @@ Word count : 713
 
 ## Researchers ?
 
-
+The team was co-led by the scientists who engineered PETase, Professor John McGeehan, Director of the Centre for Enzyme Innovation (CEI) at the University of Portsmouth, and Dr Gregg Beckham, Senior Research Fellow at the National Renewable Energy Laboratory (NREL) in the US. 
 
 ## Published in ? When ?
 
-
+Journal Proceedings of the National Academy of Sciences 
 
 ## General topic
 
-
+Association between two enzymes that digest plastic.
 
 ## Procedure / What was examined
 
+The PET is the most used plastic. The problem is that it takes a lot of time to decompose in the environment. So the scientists try to find out a solution. 
 
+We already know that PET-ase enzyme can digests PET plastic but it takes too much time to use it. So they needed to find an other large scale solution to fight the plastic pollution.
+
+At the first step, they discovered an other enzyme (MHET-ase) in the «natural» plastic littering. After that they made some experiments in laboratories and they found the molecular structure of the enzyme. Thanks to that they made a lot of researches on the function of this molecule and they were able to reproduce it synthetically.  
 
 ## Conclusions / Discovery
 
+Finally they discovered that the combination of PET-ase and the MHET-ase was a «super-enzyme». It can digest plastic particules and cut it into theirs building blocks six times faster than the PET-ase alone.
 
+=> It can help to reduce our plastic pollution and decrease the greenhouse gases. We could also recycle our plastic indefinitely with a low energy method and keep its primary quality. 
 
 ## Remaining questions 
 
