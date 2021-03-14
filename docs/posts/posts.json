@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2021-03-13-article-7/",
-    "title": "Article 7 : ",
-    "description": "A short description of the post.",
+    "title": "Article 7 : Cyanobacteria could revolutionize the plastic industry",
+    "description": "Analysis of a study on the biological plastic produce by the cyanobacteria",
     "author": [
       {
         "name": "Lola Roseau",
@@ -16,7 +16,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2021-03-13T16:44:04+01:00"
+    "last_modified": "2021-03-14T15:45:49+01:00"
   },
   {
     "path": "posts/2021-03-08-article-6/",
