@@ -52,11 +52,13 @@ Biological plastic produced by the cyanobacteria
 
 ## Procedure / What was examined
 
-
+Scientists examine the bioplastic (polyhydroxybutyrate) produced by the cyanobacteria (Synechocystis) and try to find out a way to speed up the process. This bioplastic is a by-product of photosynthesis and so it’s sustainable and eco friendly.
 
 ## Conclusions / Discovery
 
-
+They modify the bacteria's metabolism with the DNA. Because they want to produce this natural plastic in huge quantities for using it in industries and globally. 
+After these changes, the amount of PHB produced by the bacteria was 80% of the cell’s total mass.
+The aim is now to optimize it for a global large-scale use. 
 
 ## Remaining questions 
 
