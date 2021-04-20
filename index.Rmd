@@ -4,6 +4,7 @@ site: distill::distill_website
 listing: 
   posts:
   - about
+  - 2021-04-20-introduction
   - article-1
   - 2020-12-03-article-2
   - 2020-12-05-article-3
@@ -11,6 +12,8 @@ listing:
   - 2021-02-26-article-5
   - 2021-03-08-article-6
   - 2021-03-13-article-7
+  - 2021-04-20-conclusion
+  - 2021-04-20-bibliography
   - 2021-02-21-meal
   - graphicdescription
 ---

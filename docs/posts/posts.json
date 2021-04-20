@@ -1,5 +1,56 @@
 [
   {
+    "path": "posts/2021-04-20-bibliography/",
+    "title": "Bibliography",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lola Roseau",
+        "url": {
+          "https://lolaroseau.github.io/Lola_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-04-20",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-20T10:23:57+02:00"
+  },
+  {
+    "path": "posts/2021-04-20-conclusion/",
+    "title": "Conclusion",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lola Roseau",
+        "url": {
+          "https://lolaroseau.github.io/Lola_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-04-20",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-20T10:23:46+02:00"
+  },
+  {
+    "path": "posts/2021-04-20-introduction/",
+    "title": "Introduction",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lola Roseau",
+        "url": {
+          "https://lolaroseau.github.io/Lola_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-04-20",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-20T10:23:34+02:00"
+  },
+  {
     "path": "posts/2021-03-13-article-7/",
     "title": "Article 7 : Cyanobacteria could revolutionize the plastic industry",
     "description": "Analysis of a study on the biological plastic produce by the cyanobacteria",
