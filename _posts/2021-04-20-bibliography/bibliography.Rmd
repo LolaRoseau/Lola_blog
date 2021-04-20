@@ -1,7 +1,6 @@
 ---
 title: "Bibliography"
-description: |
-  A short description of the post.
+
 author:
   - name: Lola Roseau
     url:
@@ -16,7 +15,57 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# Articles : 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+Article 1 : 
+Link : https://science.sciencemag.org/content/369/6509/1314
+
+Consulted : 23 October 2020
+
+Article 2 :
+Link : https://www.newscientist.com/article/2257599-plastic-baby-bottles-shed-millions-of-microplastics-when-shaken/
+
+Consulted : 3 December 2020
+
+Article 3 :
+Link : https://www.bbc.com/news/world-us-canada-55006333 
+
+Consulted : 6 December 2020
+
+Article 4 :
+Link : https://www.scientificamerican.com/article/thousands-of-tons-of-microplastics-are-falling-from-the-sky/
+
+Consulted : 8 December 2020
+
+Article 5 :
+Link : https://www.newscientist.com/article/2252265-a-new-type-of-plastic-may-be-the-first-that-is-infinitely-recyclable/ 
+
+Consulted : 14 January 2021
+
+Article 6 :
+Link : https://www.sciencedaily.com/releases/2020/09/200928152913.htm
+
+Consulted : 1 February 2021
+
+Article 7 :
+Link : https://phys.org/news/2021-02-cyanobacteria-revolutionize-plastic-industry.html
+
+Consulted : 21 February 2021
+
+
+
+# Pictures on my blog : 
+- https://unctad.org/news/growing-plastic-pollution-wake-covid-19-how-trade-policy-can-help
+
+- https://parenting.firstcry.com/articles/4-dangers-of-bottle-feeding-your-baby-in-bed-make-sure-you-follow-these-precautions-2/
+
+- https://www.todayonline.com/world/bags-and-balloons-ngo-documents-plastic-pollution-choking-sea-life
+
+- https://www.climateaction.org/news/plastic-bag-sales-down-90-in-england
+
+- https://www.prep.it/essere-green
+
+- https://quoidansmonassiette.fr/decouverte-petase-enzyme-bacterienne-degrader-plastique-pet-polyethylene-terephtalate/
+
+- https://www.focustechnica.com/microbiologists-modify-bacteria-to-produce-climate-neutral-and-rapidly-degradable-bioplastics/
 

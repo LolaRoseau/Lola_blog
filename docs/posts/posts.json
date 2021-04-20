@@ -2,7 +2,7 @@
   {
     "path": "posts/2021-04-20-bibliography/",
     "title": "Bibliography",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
         "name": "Lola Roseau",
@@ -14,7 +14,7 @@
     "date": "2021-04-20",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-04-20T10:23:57+02:00"
+    "last_modified": "2021-04-20T10:50:09+02:00"
   },
   {
     "path": "posts/2021-04-20-conclusion/",
