@@ -6,6 +6,7 @@ author:
     url:
       https://lolaroseau.github.io/Lola_blog/: {}
 date: 04-20-2021
+categories : "English for Science"
 output:
   distill::distill_article:
     self_contained: false

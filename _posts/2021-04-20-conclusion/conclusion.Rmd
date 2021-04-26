@@ -1,12 +1,11 @@
 ---
 title: "Conclusion"
-description: |
-  A short description of the post.
 author:
   - name: Lola Roseau
     url:
       https://lolaroseau.github.io/Lola_blog/: {}
 date: 04-20-2021
+categories : "English for Science"
 output:
   distill::distill_article:
     self_contained: false
@@ -16,7 +15,12 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+As we have seen, plastic is everywhere. We have talked about the plastic masks and disposable suits used in the global covid pandemic. Plastic baby bottles that we feed our babies with. Plastic waste of all kinds that destroys marine life. And finally, microplastics carried by the wind and released in the nature. Unfortunately, there are many more articles about other situations where plastic is present and causing serious damages...
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+But to end on a positive note, we have also seen that solutions will be implemented to counter this plastic pollution. I hope that in a few years we will be talking about new types of plastics that can be totally recycled, enzymes that digest plastics or cyanobacteria that will produce our bioplastic ! And of course, that we will say that plastic pollution is no longer a problem.
+
+In the meantime, let's all try to be careful with our plastic consumption and make an effort at our own level. Every action counts for the planet and for our future generations.
+
+
+
 

@@ -12,14 +12,16 @@
       }
     ],
     "date": "2021-04-20",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2021-04-20T10:50:09+02:00"
+    "last_modified": "2021-04-26T18:13:30+02:00"
   },
   {
     "path": "posts/2021-04-20-conclusion/",
     "title": "Conclusion",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
         "name": "Lola Roseau",
@@ -29,9 +31,11 @@
       }
     ],
     "date": "2021-04-20",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2021-04-20T10:23:46+02:00"
+    "last_modified": "2021-04-26T18:13:49+02:00"
   },
   {
     "path": "posts/2021-04-20-introduction/",
