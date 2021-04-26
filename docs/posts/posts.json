@@ -36,7 +36,7 @@
   {
     "path": "posts/2021-04-20-introduction/",
     "title": "Introduction",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
         "name": "Lola Roseau",
@@ -46,9 +46,11 @@
       }
     ],
     "date": "2021-04-20",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2021-04-20T10:23:34+02:00"
+    "last_modified": "2021-04-26T17:19:09+02:00"
   },
   {
     "path": "posts/2021-03-13-article-7/",
