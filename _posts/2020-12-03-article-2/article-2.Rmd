@@ -31,8 +31,7 @@ Word count : 512
 |       Infant       |                                                             A baby or a very young child.                                                             |    Bébé / Jeune enfant    |
 |       Poured       | A substance was made to flow from a container, especially into another container, by raising just one side of the container that the substance is in. |           Versé           |
 |       Mimic        |                     To copy the way in which a particular person usually speaks and moves, usually in order to make people laugh.                     |          Imiter           |
-|      Leaking       |            (Of a liquid or gas) 
-Escaping from a hole or crack in a pipe or container; (of a container) allowing liquid or gas to escape.             |         Fuyaient          |
+|      Leaking       |            (Of a liquid or gas) Escaping from a hole or crack in a pipe or container; (of a container) allowing liquid or gas to escape.             |         Fuyaient          |
 |       Range        |                                                               A set of similar things.                                                                |           Gamme           |
 |    Substantial     |                                                         Large in size, value, or importance.                                                          | Substantiel, considérable |
 |   (daily) Intake   |                                                            The act of taking in something.                                                            |    Apport (quotidien)     |
