@@ -15,9 +15,10 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-At the begin of the year, I had to find a subject for this portfolio. So I immediately decided to choose something about the environmental issues. I wanted to talk about plastic pollution because it is a very important global pollution. The evolution of plastic production is very impressive. In 1950, the world produced more than 2 million tons of plastic per year. By 2015, this annual production swelled to 419 million tons.
+At the beginning of the year, I had to find a subject for this portfolio. So I immediately decided to choose something dealing with the environmental issues. I wanted to talk about plastic pollution because globally it is very significant. The evolution of plastic production is very impressive. In 1950, the world produced more than 2 million tons of plastic per year. By 2015, this annual production swelled to 419 million tons.
 
-As you certainly know, there are a lot of environmental problems like air pollution, soil pollution, water pollution, loss of biodiversity and many more. Plastic pollution is already linked to these four types of pollution. It is a big problem for our planet but it is also a problem for us. I have read that people eat, drink and inhale teaspoon of microplastic every week ! Of course we already know that could be very nocive for our health. 
+As you know, there are many environmental problems like air pollution, soil pollution, water pollution, loss of biodiversity and many more. Plastic pollution is already linked to these four types of pollution. It is a significant problem for our planet but it is also a problem for us. I have read that people eat, drink and inhale teaspoon of microplastic every week! Of course we already know that could be very harmful to our health. 
 
-Most people are aware of this pollution but I think that they don't realize all the impacts it has. On the first part of this portfolio, I have analyzed four articles on studies done on plastics and microplastics. Then, there are three analyses about researches on potential solutions to this global problem.
+Most people are aware of this pollution but I think that they don't realise all the impacts it has. In the first part of this portfolio, I have analysed four articles concerning studies done on plastics and microplastics. Then, there are three analyses about research on potential solutions to this global problem.
+
 
