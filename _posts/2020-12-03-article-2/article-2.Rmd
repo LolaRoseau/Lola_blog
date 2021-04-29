@@ -26,42 +26,43 @@ Word count : 512
 
 # Vocabulary
 
-| Word from the text |                                                                Synonym/definition                                                                 |     French translation     |
-| :----------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: |
-|       Infant       |                                                           A baby or a very young child.                                                           |    Bébé / jeune enfant     |
-|       Poured       | To make a substance flow from a container, especially into another container, by raising just one side of the container that the substance is in. |           Versé            |
-|       Mimic        |                   To copy the way in which a particular person usually speaks and moves, usually in order to make people laugh.                   |           Imiter           |
-|   (were) Leaking   |          (Of a liquid or gas) To escape from a hole or crack in a pipe or container; (of a container) to allow liquid or gas to escape.          |          Fuyaient          |
-|       Range        |                                                             A set of similar things.                                                              |           Gamme            |
-|    Substantial     |                                                       Large in size, value, or importance.                                                        | Substantiel / considérable |
-|   (daily) Intake   |                                                          An act of taking in something.                                                           |     Apport (quotidien)     |
-|    For instance    |                        A particular situation, event, or fact, especially an example of something that happens generally.                         |        Par exemple         |
+| Word from the text |                                                             Synonym/definition in English                                                             |    French translation     |
+| :----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: |
+|       Infant       |                                                             A baby or a very young child.                                                             |    Bébé / Jeune enfant    |
+|       Poured       | A substance was made to flow from a container, especially into another container, by raising just one side of the container that the substance is in. |           Versé           |
+|       Mimic        |                     To copy the way in which a particular person usually speaks and moves, usually in order to make people laugh.                     |          Imiter           |
+|      Leaking       |            (Of a liquid or gas) 
+Escaping from a hole or crack in a pipe or container; (of a container) allowing liquid or gas to escape.             |         Fuyaient          |
+|       Range        |                                                               A set of similar things.                                                                |           Gamme           |
+|    Substantial     |                                                         Large in size, value, or importance.                                                          | Substantiel, considérable |
+|   (daily) Intake   |                                                            The act of taking in something.                                                            |    Apport (quotidien)     |
+|    For instance    |                                                                    As an example.                                                                     |        Par exemple        |
 
 # Analysis about the study
 
-## Researchers ?
+## Researchers
 
 John Boland at Trinity College Dublin in Ireland and his colleagues.
 
 ## Published in ? When ?
 
- Online Journal «Nature food» (19/10/2020)
+«Nature food» online journal (19/10/2020)
 
 ## General topic
 
-Micro plastics in plastic baby bottles.
+Microplastics in plastic baby bottles.
 
-## Procedure / What was examined
+## Procedure/what was examined
 
-They examined microplastics released during the process of baby formula preparation in feeding bottles made of polypropylene plastic (that’s about 69% of the feeding bottles available on the market).
+They examined the microplastics released during the process of preparing baby formula in feeding bottles made of polypropylene plastic (that’s about 69% of the feeding bottles available on the market).
 
-1. They bought new feeding bottles which they cleaned, sterilized and let dry.
+1. They bought new feeding bottles which were cleaned, sterilised and allowed to dry.
 
-2. Then, they put them in 70°C purified water (WHO recommended this temperature for baby preparation). After that they put them in a mechanical shaker (to mimic the formula mixing process).
+2. Then, they were placed in purified water at 70°C (WHO recommends this temperature for the preparation of baby formula). After that they were placed in a mechanical shaker (to mimic the formula mixing process).
 
-3. The team filtered the water and analyzed it under a microscope.
+3. The team filtered the water and analysed it under a microscope.
 
-## Conclusions / Discovery
+## Conclusions/discovery
 
 Plastic feeding bottles release an average of 4 million microplastic particles per litre into baby formula during preparation.
 
