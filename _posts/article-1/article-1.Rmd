@@ -1,7 +1,7 @@
 ---
 title: "Article 1 : Accumulation of plastic waste during COVID-19"
 description: |
-  Analysis of a study on the impact of the coronavirus on plastic pollution in the world.
+  Analysis of a study on the impact of the Coronavirus on plastic pollution in the world.
   
 author:
   - name: Lola Roseau
@@ -27,22 +27,22 @@ Word count : 503
 
 # Vocabulary
 
-|  Word from the text  |                                                                   Synonym/definition in English                                                                    |        French translation         |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------: |
-|      The spread      |                                                                  The diffusion, the development.                                                                   |          La propagation           |
-|      Collapsed       |                                                           Break down / Having fallen down or given way.                                                            |          S'est effondré           |
-|      Plummeted       |                                                                Decrease rapidly in value or amount.                                                                |           A dégringolé            |
-|      Incentive       |                                                     A thing that motivates or encourages one to do something.                                                      |            Incitation             |
-|      Overcoming      |                                                          Succeed in dealing with a problem or difficulty.                                                          |             Surmonter             |
-|        Soared        |                                                              Increase rapidly above the usual level.                                                               |        Est monté en flèche        |
-|      Escalation      |                                                                     Amplification, expansion.                                                                      |             Escalade              |
-|     Consumption      |                                                                    The using up of a resource.                                                                     |           Consommation            |
-|        Gowns         |                                  A protective garment worn in hospital, either by a staff member during surgery or by a patient.                                   |              Blouses              |
-|      Landfills       | A place to dispose of refuse and other waste material by burying it and covering it over with soil, especially as a method of filling in or extending usable land. | Décharges / sites d'enfouissement |
-|  Improper disposal   |                                         The action or process of throwing away or getting rid of something in the bad way.                                         |      Elimination inadéquate       |
-|     Waterlogged      |                                                                  Saturated with or full of water.                                                                  |            Gorgé d'eau            |
-|      Curtailing      |                                                       Reduce in extent or quantity; impose a restriction on.                                                       |            Restreindre            |
-| (the profit) Margins |                                                                           Extra, bonus.                                                                            |        Marges (de profit)         |
+|  Word from the text  |                                                                   Synonym/definition in English                                                                    |       French translation        |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: |
+|      The spread      |                                                                  The diffusion, the development.                                                                   |         La propagation          |
+|      Collapsed       |                                                            Broken down/Having fallen down or given way.                                                            |         S’est effondré          |
+|      Plummeted       |                                                               Decreased rapidly in value or amount.                                                                |          A dégringolé           |
+|      Incentive       |                                                    Something that motivates or encourages one to do something.                                                     |           Incitation            |
+|      Overcoming      |                                                        Succeeding in dealing with a problem or difficulty.                                                         |            Surmonter            |
+|        Soared        |                                                              Increase rapidly above the usual level.                                                               |       Est monté en flèche       |
+|      Escalation      |                                                         Intensification, becoming greater or more serious.                                                         |            Escalade             |
+|     Consumption      |                                                                       The use of a resource.                                                                       |          Consommation           |
+|        Gowns         |                                A protective garment worn in hospital, either by a staff member during a procedure or by a patient.                                 |             Blouses             |
+|      Landfills       | A place to dispose of refuse and other waste material by burying it and covering it over with soil, especially as a method of filling in or extending usable land. | Décharges/sites d’enfouissement |
+|  Improper disposal   |                                         The action or process of throwing away or getting rid of something in the bad way.                                         |     Elimination inadéquate      |
+|     Waterlogged      |                                                                  Saturated with or full of water.                                                                  |           Gorgé d’eau           |
+|      Curtailing      |                                                       Reduce in extent or quantity; impose a restriction on.                                                       |           Restreindre           |
+| (the profit) Margins |                                                                           Extra, bonus.                                                                            |       Marges (de profit)        |
 
 # Analysis about the study
 
@@ -52,25 +52,25 @@ Tanveer M. Adyel Department of Civil Engineering, Monash University, Clayton, Me
 
 ## Published in ? When ?
 
-Magazine «Science» Vol 369 (11/09/2020)
+«Science» magazine Vol 369 (11/09/2020)
 
 ## General topic
 
-The enormous accumulation of plastic waste during covid-19 epidemic.
+The enormous accumulation of plastic waste during the Covid-19 pandemic.
 
 ## Procedure / What was examined
 
-1. The causes of lockdowns : The petroleum demand collapsed. Oil prices plummeted -> making plastic is cheaper than recycling it.
-	
+1. The results of lockdowns: The petroleum demand collapsed. Oil prices plummeted -> making plastic is cheaper than recycling it.
+
 2. Personal protective equipment -> increased plastic pollution.
-	
-3. Due the lockdown -> take-out meals, delivered groceries -> increase plastic waste.
-	
-=> This crisis causes drastic increase in plastic consumption and also improper disposal of plastic waste.
+
+3. Due the lockdown -> take-away meals, grocery deliveries -> increase plastic waste.
+
+=> This crisis caused a drastic increase in plastic consumption and also improper disposal of plastic waste.
 
 ## Conclusions / Discovery
 
-We urgently need strict policies on plastic pollution. Without environmental protection during and after the pandemic, it is unlikely that we will achieve the UN goals. 
+We urgently need strict policies on plastic pollution. Without environmental protection during and after the pandemic, it is unlikely that we will achieve the UN goals.
 
 ## Remaining questions 
 
