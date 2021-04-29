@@ -46,7 +46,7 @@ Word count : 503
 
 # Analysis about the study
 
-## Researchers ?
+## Researchers
 
 Tanveer M. Adyel Department of Civil Engineering, Monash University, Clayton, Melbourne, Australia.
 
@@ -58,7 +58,7 @@ Tanveer M. Adyel Department of Civil Engineering, Monash University, Clayton, Me
 
 The enormous accumulation of plastic waste during the Covid-19 pandemic.
 
-## Procedure / What was examined
+## Procedure/what was examined
 
 1. The results of lockdowns: The petroleum demand collapsed. Oil prices plummeted -> making plastic is cheaper than recycling it.
 
@@ -68,7 +68,7 @@ The enormous accumulation of plastic waste during the Covid-19 pandemic.
 
 => This crisis caused a drastic increase in plastic consumption and also improper disposal of plastic waste.
 
-## Conclusions / Discovery
+## Conclusions/discovery
 
 We urgently need strict policies on plastic pollution. Without environmental protection during and after the pandemic, it is unlikely that we will achieve the UN goals.
 
