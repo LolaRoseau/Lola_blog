@@ -57,15 +57,15 @@ Microparticles of plastics transported by the wind.
 
 ## Procedure / What was examined
 
-The scientists examined how microplastics travel in the atmosphere locally and long-distance. They also showed the proportion of these particles in the dust. 
+- The scientists examined how microplastics travel in the atmosphere locally and long-distance. They also showed the proportion of these particles in the dust. 
 
 - During one year, they collected microplastics from 11 national parks and wilderness areas in the western U.S. 
 
-They used a pair of buckets (one for dry weather and the other one for wet weather). The lid automatically closed using a sensor. It was weather dependent.
+- They used a pair of buckets (one for dry weather and the other one for wet weather). The lid automatically closed using a sensor. It was weather dependent.
 
 - In the lab : some scientists counted the microplastics under the microscope (they used dyes to separate the plastics particles clearly from other particles).
 
-Others used Fourier transform infrared spectroscopy. This is a technique to measure how the samples absorbed and emitted infrared light. In this way it was possible to differentiate plastic from other materials.
+- Others used Fourier transform infrared spectroscopy. This is a technique to measure how the samples absorbed and emitted infrared light. In this way it was possible to differentiate plastic from other materials.
 
 ## Conclusions / discovery
 

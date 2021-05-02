@@ -29,9 +29,9 @@ Word count : 304
 | Word from the text |                          Synonym/definition in English                          | French translation  |
 | :----------------: | :-----------------------------------------------------------------------------: | :-----------------: |
 |    For instance    |                                   For exemple                                   |     Par exemple     |
-|       Tipped       |                           To pour something somewhere                           |      Déversés       |
+|       Tipped       |                           To tilt, to discharge                           |      Déversés       |
 |     To remould     |                              To reform in a mould                               |      Remouler       |
-|      Benches       | A long, usually hard seat for two or more people, often found in public places. |        Bancs        |
+|      Benches       | A long seat for two or more people, often found in public places. |        Bancs        |
 |     Toughness      |          The quality of being strong and not easily broken or damaged.          |       Dureté        |
 
 # Analysis about the study
@@ -46,28 +46,26 @@ Science advance (19/08/2020)
 
 ## General topic
 
-Discovery of a new type of plastic infinitely recyclable.
+Discovery of a new type of infinitely recyclable plastic.
 
 ## Procedure / What was examined
 
-It’s about 300 million tones of plastic produced every year globally.
-In the US, only 10% is recycled because it’s hard to break down (the rest is tipped into landfill, incinerated or leaked in the environment). 
+About 300 million tones of plastic are produced every year globally.
+In the US, only 10% is recycled because it’s hard to break down (the rest is tipped into landfill, incinerated or leaked in the environment).
 
 ## Conclusions / discovery
 
 They discovered a new type of plastic (PBTL).
 
-Advantages : 
+Advantages:
 
-- Easy to broke into its chemical building blocks (100° -> 24 hours)
-
+- Easy to break down into its chemical building blocks (100° -> 24 hours)
 - Infinitely recyclable
+- Makes high-quality products (maintains its original properties)
 
-- Make high-quality products (maintain its original qualities)
+-> Reduces the amount of plastic waste
 
--> Reduce the amount of plastic waste
-
-Disadvantage : Need to be separeted from the other types of plastic for the recycling. 
+Disadvantage: Needs to be separated from other types of plastic for recycling.
 
 ## Remaining questions 
 
