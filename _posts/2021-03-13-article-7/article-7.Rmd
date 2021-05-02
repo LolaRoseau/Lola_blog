@@ -31,10 +31,10 @@ Word count : 538
 | :----------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------: |
 |      Enabling      |                                                          Making something possible or easier.                                                           |     Activation      |
 |     Forecasts      | A statement of what is judged likely to happen in the future, especially in connection with a particular situation, or the expected weather conditions. |     Prévisions      |
-|       Strain       |                An animal or plant from a particular group whose characteristics are different in some way from others of the same group.                |       Souche        |
-|        Flow        |                      (especially of liquids, gases, or electricity) to move in one direction, especially continuously and easily.                       |       Couler        |
-|    Implementing    |                                                             To start using a plan or system                                                             |      Exécution      |
-|   Inconspicuous    |                                           Not easily or quickly noticed or seen, or not attracting attention.                                           |       Discret       |
+|       Strain       |                An animal or plant from a particular species with dinstinctive characteristics.                |       Souche        |
+|        Flow        |                      (especially of liquids, gases, or electricity) to act of moving in a stream.                       |       Couler        |
+|    Implementing    |                                                             Putting into use                                                             |      Exécution      |
+|   Inconspicuous    |                                           Not easily or not attracting attention.                                           |       Discret       |
 
 # Analysis about the study
 
@@ -44,7 +44,7 @@ Professor Karl Forchhammer of the Interfaculty Institute of Microbiology and Inf
 
 ## Published in ? When ?
 
-Journals Microbial Cell Factories and PNAS (Proceedings of the National Academy of Sciences).
+Microbial Cell Factories and PNAS (Proceedings of the National Academy of Sciences) journals.
 
 ## General topic
 
@@ -52,13 +52,15 @@ Biological plastic produced by the cyanobacteria
 
 ## Procedure / What was examined
 
-Scientists examine the bioplastic (polyhydroxybutyrate) produced by the cyanobacteria (Synechocystis) and try to find out a way to speed up the process. This bioplastic is a by-product of photosynthesis and so it’s sustainable and eco friendly.
+Scientists examined the bioplastic (polyhydroxybutyrate) produced by cyanobacteria (Synechocystis) and tried to discover a way to speed up the process. This bioplastic is a by-product of photosynthesis and so it’s sustainable and eco-friendly.
 
 ## Conclusions / Discovery
 
-They modify the bacteria's metabolism with the DNA. Because they want to produce this natural plastic in huge quantities for using it in industries and globally. 
-After these changes, the amount of PHB produced by the bacteria was 80% of the cell’s total mass.
-The aim is now to optimize it for a global large-scale use. 
+They modify the bacteria's metabolism with DNA, because they want to produce this natural plastic in huge quantities for use in industries and globally. 
+
+After these modifications, the amount of PHB produced by the bacteria was 80% of the cell’s total mass.
+
+The aim is now to optimise the process for a global large-scale use. 
 
 ## Remaining questions 
 

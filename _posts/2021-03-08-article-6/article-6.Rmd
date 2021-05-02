@@ -30,23 +30,23 @@ Word count : 713
 
 | Word from the text |                                                                Synonym/definition in English                                                                 | French translation  |
 | :----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------: |
-|      Heralds       | To be a sign that something important, and often good, is starting to happen, or to make something publicly known, especially by celebrating or praising it. |       Annonce       |
+|      Heralds       | Signals that something important is about to happen. |       Annonce       |
 |      Dwelling      |                                                                 A house or place to live in                                                                  |      Logement       |
-|     To tackle      |                                                                To try to deal with something.                                                                |       Tacler        |
+|     To tackle      |                                                                To deal with something.                                                                |       S'attaquer à quelque chose        |
 |       Chops        |                                         To cut something into pieces with an axe, knife, or other sharp instrument.                                          |       Couper        |
-|     Mimicking      |                        To copy the way in which a particular person usually speaks and moves, usually in order to make people laugh.                         |       Imitant       |
+|     Mimicking      |                        Copying the way in which a particular person usually speaks and moves, usually in order to make people laugh.                         |       Imitant       |
 |     Delighted      |                                                                         Very pleased                                                                         |        Ravie        |
 |       Grasp        |                                                To quickly take something in your hand(s) and hold it firmly.                                                 |       Saisir        |
-|     Littering      |                                      Small pieces of rubbish that have been left lying on the ground in public places.                                       |      Détritus       |
+|     Litter(ing)      |                                      Small pieces of rubbish that have been left lying on the ground in public places.                                       |      Détritus       |
 |      Reliance      |                                                The state of depending on or trusting in something or someone.                                                |     Dépendance      |
 |     Blueprints     |                                                A complete plan that explains how to do or develop something.                                                 |        Plans        |
-|   Computational    |                                                             Using computers to study something.                                                              |    Informatique     |
+|   Computational    |                                                             Using computers or mathematics.                                                              |    Informatique     |
 
 # Analysis about the study
 
 ## Researchers ?
 
-The team was co-led by the scientists who engineered PETase, Professor John McGeehan, Director of the Centre for Enzyme Innovation (CEI) at the University of Portsmouth, and Dr Gregg Beckham, Senior Research Fellow at the National Renewable Energy Laboratory (NREL) in the US. 
+The team was co-led by the scientists who engineered PETase, Professor John McGeehan, Director of the Centre for Enzyme Innovation (CEI) at the University of Portsmouth, and Dr Gregg Beckham, Senior Research Fellow at the National Renewable Energy Laboratory (NREL) in the US.
 
 ## Published in ? When ?
 
@@ -58,17 +58,17 @@ Association between two enzymes that digest plastic.
 
 ## Procedure / What was examined
 
-The PET is the most used plastic. The problem is that it takes a lot of time to decompose in the environment. So the scientists try to find out a solution. 
+PET is the most used plastic. The problem is that it takes a lot of time to decompose in the environment. So the scientists are trying to find a solution. 
 
-We already know that PET-ase enzyme can digests PET plastic but it takes too much time to use it. So they needed to find an other large scale solution to fight the plastic pollution.
+We already know that PET-ase enzyme can digest PET plastic but it takes too much time to use it. So they needed to find an other large-scale solution for fighting plastic pollution.
 
-At the first step, they discovered an other enzyme (MHET-ase) in the «natural» plastic littering. After that they made some experiments in laboratories and they found the molecular structure of the enzyme. Thanks to that they made a lot of researches on the function of this molecule and they were able to reproduce it synthetically.  
+At the first step, the scientists discovered another enzyme (MHET-ase) in the «natural» plastic litter. After that they made some experiments in laboratories and they found the molecular structure of the enzyme. Thanks to that they made a lot of researches on the function of this molecule and it was possible to reproduce it synthetically.  
 
 ## Conclusions / Discovery
 
-Finally they discovered that the combination of PET-ase and the MHET-ase was a «super-enzyme». It can digest plastic particules and cut it into theirs building blocks six times faster than the PET-ase alone.
+Finally it was discovered that the combination of PET-ase and MHET-ase was a «super-enzyme». It can digest plastic particles and break them down into their building blocks six times faster than PET-ase alone.
 
-=> It can help to reduce our plastic pollution and decrease the greenhouse gases. We could also recycle our plastic indefinitely with a low energy method and keep its primary quality. 
+=> This can help to reduce our plastic pollution and decrease greenhouse gases. We could also recycle our plastic indefinitely using a low energy method and retain its primary quality. 
 
 ## Remaining questions 
 
