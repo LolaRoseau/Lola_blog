@@ -57,7 +57,7 @@ In the US, only 10% is recycled because it’s hard to break down (the rest is t
 
 They discovered a new type of plastic (PBTL).
 
-Advantages:
+**Advantages**:
 
 - Easy to break down into its chemical building blocks (100° -> 24 hours)
 - Infinitely recyclable
@@ -65,7 +65,7 @@ Advantages:
 
 -> Reduces the amount of plastic waste
 
-Disadvantage: Needs to be separated from other types of plastic for recycling.
+**Disadvantage**: Needs to be separated from other types of plastic for recycling.
 
 ## Remaining questions 
 

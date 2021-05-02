@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![Plastic in the atmosphere - Getty image](images/image-plasic-atmosphere.jpeg) 
+![Plastic flying in the atmosphere - Getty image](images/image-plasic-atmosphere.jpeg) 
 
 
 # Source of the article
@@ -75,9 +75,9 @@ Microparticles of plastics transported by the wind.
 
 - Dry microplastics -> smaller and more numerous -> higher in the atmosphere, away from cities.
 
-=> The microplastics are transported by the wind and carried far away. «More than 1,000 metric tons of microplastics fall on protected lands in the country’s western region each year ».
+=> The microplastics are transported by the wind and carried far away. «More than 1,000 metric tons of microplastics fall on protected lands in the country’s western region each year».
 
 ## Remaining questions 
 
-The future research will focus on the question of: «How microplastics enter the atmosphere ?»
+The future research will focus on the question of: «How microplastics enter the atmosphere?»
 
