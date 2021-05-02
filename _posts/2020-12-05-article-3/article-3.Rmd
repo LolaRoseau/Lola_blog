@@ -27,29 +27,29 @@ Word count : 466
 
 # Vocabulary
 
-|   Word from the text   |                                                               Synonym / definition in English                                                               |   French translation    |
-| :--------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: |
-|   Unfolding disaster   |                                                                           Damage                                                                            | Désastre qui se déroule |
-|      Decade-long       |                                                                During a period of ten years.                                                                |       Une décénie       |
-| Comprehensive (report) |                                                    Complete and including everything that is necessary.                                                     |   (rapport) détaillé    |
-|       Threatened       |                                                                         Endangered                                                                          |         Menacés         |
-|         Warns          |                                     To make someone realize a possible danger or problem, especially one in the future.                                     |        Prévient         |
-|       Monk seals       | A type of seal (= a large mammal that eats fish and lives partly in the sea and partly on land) that lives in warm areas in the northern part of the world. |     Phoques moines      |
-|     A grim picture     |                                                                        Without hope                                                                         |    Une image sombre     |
-|        Authored        |                                                                            Wrote                                                                            |         Rédigé          |
-|        Drowning        |                                Death caused by being underwater and not being able to breathe, or a case when this happens.                                 |         Noyade          |
-|       Entangled        |                                          To cause something to become caught in something such as a net or ropes.                                           |         Emmêlé          |
-|       Sei whale        |                             A type of whale (a very large sea mammal that breathes air through a hole at the top of its head).                              |     Rorqual boréal      |
-|        Curtail         |                                          To stop something before it is finished, or to reduce or limit something.                                          |         Réduire         |
-|         Straws         |                                 A thin tube made of plastic or waterproof paper that is used to suck liquid into the mouth.                                 |         Pailles         |
-|      Bin lorries       |                             A large vehicle that is driven from one house to another to collect rubbish from the bins outside.                              |    Camions poubelles    |
-
+|   Word from the text   |                               Synonym/definition in English                                |   French translation    |
+| :--------------------: | :----------------------------------------------------------------------------------------: | :---------------------: |
+|   Unfolding disaster   |                              Disaster which is taking place.                               | Désastre qui se déroule |
+|      Decade-long       |                                Over a period of ten years.                                 |      Une décennie       |
+| Comprehensive (report) |                       Including or dealing with all or most aspects.                       |   (rapport) détaillé    |
+|       Threatened       |                                         Endangered                                         |         Menacés         |
+|         Warns          |                Informs someone in advance of a possible danger or problem.                 |        Prévient         |
+|       Monk seals       |                                      A type of seal.                                       |     Phoques moines      |
+|     A grim picture     |                   Situation that is unpleasant and difficult to accept.                    |    Une image sombre     |
+|        Authored        |                                           Wrote                                            |         Rédigé          |
+|        Drowning        |                   Death caused by submersion in and inhalation of water.                   |         Noyade          |
+|       Entangled        |                        Caught in something such as a net or ropes.                         |         Emmêlé          |
+|       Sei whale        |                                      A type of whale.                                      |     Rorqual boréal      |
+|        Curtail         |         To stop something before it is finished, or to reduce or limit something.          |         Réduire         |
+|         Straws         | Thin tubes made of plastic or waterproof paper that is used to suck liquid into the mouth. |         Pailles         |
+|      Bin lorries       |                                Rubbish collection vehicles.                                |    Camions poubelles    |
 
 # Analysis about the study
 
 ## Researchers ?
 
-Oceana, the world's largest ocean conservation group. Authored by the Dr Kimberly Warner.
+Oceana, the world's largest ocean conservation group.
+Author: Dr Kimberly Warner.
 
 ## Published in ? When ?
 
@@ -57,7 +57,7 @@ Oceana USA website (19/11/2020)
 
 ## General topic
 
-Damages to the US marine life due to plastic pollution.
+Damage to the US marine life due to plastic pollution.
 
 ## Procedure / What was examined
 
@@ -65,23 +65,24 @@ The study tried to find out which marine animals are harmed by plastic pollution
 
 ## Conclusions / Discovery
 
-- Since 2009, they found 1,792 cases of hurted marine animals due to plastic (entangled, hurt when swallowing it, strangling, drowning…).
+- Since 2009, they found 1,792 cases of marine animals injured due to plastic (entangled, injured when swallowing it, strangled, drowned,…).
 
-- 88% of them are threatened or endangered. It concerns about 40 species including Hawaiian monk seals, Florida manatees, Steller sea lions and all six species of sea turtle found in the US.
+- 88% of them were threatened or endangered. The study concerns about 40 species including Hawaiian monk seals, Florida manatees, Steller sea lions and all six species of sea turtle found in the US.
 
-- They are sure that the real numbers are definitely worst. 
+- The researchers are sure that the true numbers are definitely worse. 
 
 - Plastic pollution is one of several human-caused factors endangering the planet.
--> Industries continues to increase our use of plastic.
-US produces more sigle-use plastic than any other nation.
+-> Industries continue to increase our use of plastic. 
+The US produces more single-use plastic than any other nation.
 
-- 15 million metric tonnes of plastic enter the oceans each year. It is going to tripe by 2040.
+- 15 million metric tonnes of plastic enter the oceans each year.
+It is going to tripe by 2040.
 
-=> Oceana wants that :
+=> Oceana would like: 
 
-- The companies reduce the amount of plastic produced and offer plastic-free alternatives. 
+- Companies tp reduce the amount of plastic produced and offer plastic-free alternatives. 
 
-- The government passes policies to help reduce single-use plastics. 
+- Governments to investigate policies to help reduce single-use plastics.
 
 ## Remaining questions 
 
